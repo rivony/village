@@ -1,2 +1,2 @@
 ﻿# village
-Modélisation et la simulation de village et des villageois. Simulation de fonctionnement (eau + électricité) et croissance.
+Modélisation d'un village et simulation de son fonctionnement en électricité.
